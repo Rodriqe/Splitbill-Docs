@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Time2Split - Smart bill splitting app for iOS. OCR receipt scanning, multi-currency support, fair expense division.">
+    <title>Time2Split - Smart Bill Splitting for iOS</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #FF6B35 0%, #F7931E 50%, #FFB347 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 600px;
+            padding: 50px;
+            text-align: center;
+        }
+
+        .icon {
+            font-size: 80px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        .tagline {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+
+        .features {
+            text-align: left;
+            margin: 30px 0;
+            padding: 20px;
+            background: #fff8f3;
+            border-radius: 10px;
+        }
+
+        .features h2 {
+            color: #FF6B35;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .features ul {
+            list-style: none;
+        }
+
+        .features li {
+            padding: 8px 0;
+            padding-left: 30px;
+            position: relative;
+            color: #555;
+        }
+
+        .features li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #4CAF50;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .buttons {
+            margin-top: 30px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 10px;
+            background: #FF6B35;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .button:hover {
+            background: #e55a2b;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .button.secondary {
+            background: #6c757d;
+        }
+
+        .button.secondary:hover {
+            background: #5a6268;
+        }
+
+        footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e9ecef;
+            color: #999;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            .icon {
+                font-size: 60px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">🧾</div>
+        <h1>Time2Split</h1>
+        <p class="tagline">Smart bill splitting for iOS</p>
+
+        <div class="features">
+            <h2>Features</h2>
+            <ul>
+                <li>OCR Receipt Scanning</li>
+                <li>30 Currencies Supported</li>
+                <li>Smart Item Assignment</li>
+                <li>Proportional Tip Splitting</li>
+                <li>Debt Settlement Calculator</li>
+                <li>Reusable Participant Groups</li>
+                <li>No Cloud - All Local</li>
+                <li>No Tracking or Ads</li>
+                <li>One-Time Purchase, All Features</li>
+                <li>English &amp; Spanish</li>
+            </ul>
+        </div>
+
+        <div class="buttons">
+            <a href="privacy.html" class="button">Privacy Policy</a>
+            <a href="terms.html" class="button">Terms of Use</a>
+            <a href="support.html" class="button secondary">Support</a>
+            <a href="https://github.com/Rodriqe/Splitbill" class="button secondary" target="_blank">GitHub</a>
+        </div>
+
+        <footer>
+            <p><strong>Your data stays on YOUR device</strong></p>
+            <p style="margin-top: 10px;">No servers. No cloud. No tracking.</p>
+            <p style="margin-top: 20px;">&copy; 2026 Time2Split. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
