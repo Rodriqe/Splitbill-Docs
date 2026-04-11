@@ -4,14 +4,14 @@ Smart bill splitting app for iOS.
 
 ## 🌐 Documentation Website
 
-Live site: [https://rodriqe.github.io/Splitbill/](https://rodriqe.github.io/Splitbill-docs/)
+Live site: [https://rodriqe.github.io/Splitbill-Docs/](https://rodriqe.github.io/Splitbill-docs/)
 
 | File | Description | URL |
 |------|-------------|-----|
-| `index.html` | Landing page | [https://rodriqe.github.io/Splitbill/](https://rodriqe.github.io/Splitbill/) |
-| `privacy.html` | Privacy Policy (App Store) | [https://rodriqe.github.io/Splitbill/privacy.html](https://rodriqe.github.io/Splitbill-Docs/privacy.html) |
-| `terms.html` | Terms of Use / EULA (App Store) | [https://rodriqe.github.io/Splitbill/terms.html](https://rodriqe.github.io/Splitbill-Docs/terms.html) |
-| `support.html` | Support (App Store Connect) | [https://rodriqe.github.io/Splitbill/support.html](https://rodriqe.github.io/Splitbill-docs/support.html) |
+| `index.html` | Landing page | [https://rodriqe.github.io/Splitbill-Docs/](https://rodriqe.github.io/Splitbill/) |
+| `privacy.html` | Privacy Policy (App Store) | [https://rodriqe.github.io/Splitbill-Docs/privacy.html](https://rodriqe.github.io/Splitbill-Docs/privacy.html) |
+| `terms.html` | Terms of Use / EULA (App Store) | [https://rodriqe.github.io/Splitbill-Docs/terms.html](https://rodriqe.github.io/Splitbill-Docs/terms.html) |
+| `support.html` | Support (App Store Connect) | [https://rodriqe.github.io/Splitbill-Docs/support.html](https://rodriqe.github.io/Splitbill-docs/support.html) |
 
 ## ✨ Features
 
