@@ -4,14 +4,14 @@ Smart bill splitting app for iOS.
 
 ## 🌐 Documentation Website
 
-Live site: [https://rodriqe.github.io/Splitbill/](https://rodriqe.github.io/Splitbill/)
+Live site: [https://rodriqe.github.io/Splitbill/](https://rodriqe.github.io/Splitbill-docs/)
 
 | File | Description | URL |
 |------|-------------|-----|
 | `index.html` | Landing page | [https://rodriqe.github.io/Splitbill/](https://rodriqe.github.io/Splitbill/) |
-| `privacy.html` | Privacy Policy (App Store) | [https://rodriqe.github.io/Splitbill/privacy.html](https://rodriqe.github.io/Splitbill/privacy.html) |
-| `terms.html` | Terms of Use / EULA (App Store) | [https://rodriqe.github.io/Splitbill/terms.html](https://rodriqe.github.io/Splitbill/terms.html) |
-| `support.html` | Support (App Store Connect) | [https://rodriqe.github.io/Splitbill/support.html](https://rodriqe.github.io/Splitbill/support.html) |
+| `privacy.html` | Privacy Policy (App Store) | [https://rodriqe.github.io/Splitbill/privacy.html](https://rodriqe.github.io/Splitbill-Docs/privacy.html) |
+| `terms.html` | Terms of Use / EULA (App Store) | [https://rodriqe.github.io/Splitbill/terms.html](https://rodriqe.github.io/Splitbill-Docs/terms.html) |
+| `support.html` | Support (App Store Connect) | [https://rodriqe.github.io/Splitbill/support.html](https://rodriqe.github.io/Splitbill-docs/support.html) |
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ docs/                # GitHub Pages documentation site
 
 ## 🔒 Privacy
 
-All data is stored locally on-device using SwiftData. No analytics, no tracking, no third-party services. OCR processing uses Apple's Vision framework entirely on-device. See the full [Privacy Policy](https://rodriqe.github.io/Splitbill/privacy.html).
+All data is stored locally on-device using SwiftData. No analytics, no tracking, no third-party services. OCR processing uses Apple's Vision framework entirely on-device. See the full [Privacy Policy](https://rodriqe.github.io/Splitbill-docs/privacy.html).
 
 ## 🚀 GitHub Pages
 
@@ -60,16 +60,16 @@ This site is published automatically via GitHub Pages from the `/docs` directory
 - [x] `terms.html` creado
 - [x] `support.html` creado
 - [ ] GitHub Pages habilitado (Settings → Pages)
-- [ ] Sitio verificado: [https://rodriqe.github.io/Splitbill/](https://rodriqe.github.io/Splitbill/)
+- [ ] Sitio verificado: [https://rodriqe.github.io/Splitbill-docs/](https://rodriqe.github.io/Splitbill-docs/)
 - [ ] Privacy Policy URL añadida a App Store Connect
 - [ ] Terms of Use (EULA) URL añadida a App Store Connect
 - [ ] Support URL añadida a App Store Connect
 
 ## 🔗 Enlaces Importantes
 
-- **Privacy Policy**: [https://rodriqe.github.io/Splitbill/privacy.html](https://rodriqe.github.io/Splitbill/privacy.html)
-- **Terms of Use**: [https://rodriqe.github.io/Splitbill/terms.html](https://rodriqe.github.io/Splitbill/terms.html)
-- **Support**: [https://rodriqe.github.io/Splitbill/support.html](https://rodriqe.github.io/Splitbill/support.html)
-- **GitHub Repo**: https://github.com/Rodriqe/Splitbill
+- **Privacy Policy**: [https://rodriqe.github.io/Splitbill/privacy.html](https://rodriqe.github.io/Splitbill-docs/privacy.html)
+- **Terms of Use**: [https://rodriqe.github.io/Splitbill/terms.html](https://rodriqe.github.io/Splitbill-docs/terms.html)
+- **Support**: [https://rodriqe.github.io/Splitbill/support.html](https://rodriqe.github.io/Splitbill-docs/support.html)
+- **GitHub Repo**: https://github.com/Rodriqe/Splitbill-docs
 
 > **Nota:** Este sitio es estático (solo HTML/CSS). No requiere servidor ni base de datos.
